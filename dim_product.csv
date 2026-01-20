@@ -1,0 +1,21 @@
+product_id,product_name,category_id,brand
+1,Coca-Cola 500ml,1,Coca-Cola
+2,Pepsi 500ml,1,Pepsi
+3,Thums Up 750ml,1,Coca-Cola
+4,Red Bull Can,1,Red Bull
+5,Parle-G Gold,2,Parle
+6,Britannia Good Day,2,Britannia
+7,Hide & Seek Fab,2,Parle
+8,Lays Classic Salted,2,PepsiCo
+9,Amul Butter 100g,3,Amul
+10,Amul Taaza Milk 1L,3,Amul
+11,Mother Dairy Milk 1L,3,Mother Dairy
+12,Nestle Curd Cup,3,Nestle
+13,Dove Shampoo 180ml,4,HUL
+14,Lux Soap Bar,4,HUL
+15,Pears Soap,4,HUL
+16,Colgate Strong Teeth,4,Colgate
+17,Surf Excel Easy Wash,5,HUL
+18,Vim Dishwash Gel,5,HUL
+19,Harpic Toilet Cleaner,5,Reckitt
+20,Lizol Floor Cleaner,5,Reckitt
